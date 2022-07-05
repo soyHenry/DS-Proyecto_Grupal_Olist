@@ -24,20 +24,30 @@ La informacion clasificada fue removida
 
 Que esperamos ¿?  algunos fuentes de inspiracion 
 
-NLP:
+* Ventas:
+En base a la data que tenemos podemos hacer una pequeña prediccion de como podrian ser las ventas a futuro. 
+El gerente del equipo de productos requiere lo siguiente para escribir el informe del cliente lo más claro posible.
+Tendencia de compra de los clientes año a año, mes a mes
+El equipo de marketing necesita los siguientes datos para establecer la estrategia de marketing para cada estado
 
-This dataset offers a supreme environment to parse out the reviews text through its multiple dimensions.
-
-
-
-Sales Prediction:
-En base a la data que tenemos podemos hacer una pequeña prediccion de como podrian ser las ventas a futuro. Tambien que productos son los que mas y menos se venden
-
-Delivery Performance:
-
+* Delivery:
 Si queremos entrar de lleno en este mercado, el tema de logistica seria un punto importante a considerar y seria optimo tener referencias sobre las principales metricas de logistica
 
-Product Quality:
-
+* Productos:
 En base a las reviews, podemos ver cuales son considerados los productos con mejor o peor calidad? 
+Las 10 principales y las 10 últimas categorías de productos según los ingresos.
+Los miembros del equipo de productos solicitan los datos de la tasa de crecimiento de la categoría del producto para ver la tendencia de qué categoría está creciendo o disminuyendo.
 
+* Por ubicacion geografica:
+Agregación de ingresos por 'estado'
+Las 5 principales categorías de productos por 'estado'
+Número de clientes y vendedores por 'estado'
+
+* La satisfacción del cliente:
+Tendencia de compra
+
+* Pago
+Agregación del método de pago del cliente
+
+* Vendedores
+El equipo de ventas y el equipo de productos están planificando la ceremonia de premiación para entregar los premios al vendedor a los 10 mejores vendedores que tienen un gran desempeño dentro de las categorías. 
