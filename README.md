@@ -51,3 +51,10 @@ Agregación del método de pago del cliente
 
 * Vendedores:<br>
 El equipo de ventas y el equipo de productos están planificando la ceremonia de premiación para entregar los premios al vendedor a los 10 mejores vendedores que tienen un gran desempeño dentro de las categorías. 
+
+
+## Para pensar y debatir
+- ¿Debería Olist eliminar solo a los vendedores de bajo rendimiento repetidos, después de que tenga un período de luna de miel de unos pocos meses?
+- ¿Olist debería eliminar por completo los productos/categorías de peor rendimiento de su mercado?
+- ¿Olist debería restringir los pares (vendedor, cliente) entre ciertos estados para evitar retrasos?
+- ¿Debería Olist adquirir nuevos vendedores, sugiriendo algunos supuestos de costos?
