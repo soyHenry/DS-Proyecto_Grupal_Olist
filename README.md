@@ -54,7 +54,7 @@ El equipo de ventas y el equipo de productos están planificando la ceremonia de
 
 
 ## Para pensar y debatir
-- ¿Debería Olist eliminar solo a los vendedores de bajo rendimiento repetidos, después de que tenga un período de luna de miel de unos pocos meses?
+- ¿Debería Olist eliminar solo a los vendedores de bajo rendimiento?
 - ¿Olist debería eliminar por completo los productos/categorías de peor rendimiento de su mercado?
-- ¿Olist debería restringir los pares (vendedor, cliente) entre ciertos estados para evitar retrasos?
+- ¿Olist debería restringir los pares (vendedor, cliente) entre distintos Estados (provincia) para evitar retrasos?
 - ¿Debería Olist adquirir nuevos vendedores, sugiriendo algunos supuestos de costos?
